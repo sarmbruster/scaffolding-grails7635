@@ -1,3 +1,4 @@
+grails.plugin.location."enhanced-scaffolding" = "../grails-enhanced-scaffolding"
 grails.servlet.version = "2.5" // Change depending on target container compliance (2.5 or 3.0)
 grails.project.class.dir = "target/classes"
 grails.project.test.class.dir = "target/test-classes"

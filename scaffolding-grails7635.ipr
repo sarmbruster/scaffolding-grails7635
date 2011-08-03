@@ -79,6 +79,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/enhancedScaffolding-inplacePlugin.iml" filepath="$PROJECT_DIR$/enhancedScaffolding-inplacePlugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/scaffolding-grails7635.iml" filepath="$PROJECT_DIR$/scaffolding-grails7635.iml" />
       <module fileurl="file://$PROJECT_DIR$/scaffolding-grails7635-grailsPlugins.iml" filepath="$PROJECT_DIR$/scaffolding-grails7635-grailsPlugins.iml" />
     </modules>
