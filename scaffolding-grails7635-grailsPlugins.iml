@@ -6,6 +6,10 @@
         <webroots>
           <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-1.6.1.1/web-app" relative="/" />
           <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/modernizr-1.7.2/web-app" relative="/" />
+          <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5/web-app" relative="/" />
+          <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1/web-app" relative="/" />
+          <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/web-app" relative="/" />
+          <root url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/grails-app/views" relative="/" />
         </webroots>
         <sourceRoots />
       </configuration>
@@ -13,6 +17,18 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5">
+      <sourceFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5/grails-app/services" isTestSource="false" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5/target/classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5/target/test-classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cache-headers-1.1.5/web-app/plugins" />
+    </content>
+    <content url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0">
+      <sourceFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/target/classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/target/test-classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/cached-resources-1.0/web-app/plugins" />
+    </content>
     <content url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/hibernate-2.0.0.BUILD-SNAPSHOT">
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/hibernate-2.0.0.BUILD-SNAPSHOT/target/classes" />
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/hibernate-2.0.0.BUILD-SNAPSHOT/target/test-classes" />
@@ -25,6 +41,12 @@
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-1.6.1.1/target/classes" />
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-1.6.1.1/target/test-classes" />
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-1.6.1.1/web-app/plugins" />
+    </content>
+    <content url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1">
+      <sourceFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1/grails-app/taglib" isTestSource="false" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1/target/classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1/target/test-classes" />
+      <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/jquery-ui-1.8.10.1/web-app/plugins" />
     </content>
     <content url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/modernizr-1.7.2">
       <excludeFolder url="file://$DOTGRAILS$/2.0.0.BUILD-SNAPSHOT/projects/scaffolding-grails7635/plugins/modernizr-1.7.2/target/classes" />
